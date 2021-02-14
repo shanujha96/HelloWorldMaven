@@ -25,7 +25,7 @@
 <snapshotRepository>
 <id>snapshots</id>
 <!-- CHANGE HERE by your team nexus server snapshots -->
-  <url>http:/http://52.91.34.8:8081/repository/maven-snapshots/
+  <url>http://52.91.34.8:8081/repository/maven-snapshots/
   </url>
 
   </snapshotRepository>
